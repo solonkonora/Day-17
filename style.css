@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto Mono:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  font-family: 'Roboto Mono', sans-serif;
+  background-image: URL('./images/IMG-20220614-WA0003.jpg');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  background-position: center;
+  background-size: cover;
+  transition: 0.4s;
+}
+
